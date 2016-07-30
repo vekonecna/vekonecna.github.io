@@ -1,0 +1,129 @@
+﻿<!doctype html>
+<html><!-- TemplateBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Inspirativní rána</title>
+<!-- TemplateEndEditable -->
+<link href="../style.css" rel="stylesheet" type="text/css">
+<link href="../picts/favicon.png" rel="icon" type="image/png" />
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<link rel="stylesheet" href="/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+<style type="text/css">
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+</style>
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+
+<body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66451062-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!--<div class="search">
+  <input type="search" name="googlesearch" value="vyhledat">
+</div> -->
+    
+<div class="container">
+	
+  <header>
+    <h1><a href="../index.html"><img src="../picts/logo.png" alt="Logo Inspirativní rána" name="logo" width="300" height="100" class="logo" id="logo"/></a></h1>
+    <nav>
+    <a href="../projekt.html">O PROJEKTU</a>&nbsp;&nbsp;&nbsp;
+    <a href="../program.html">PROGRAM</a>&nbsp;&nbsp;&nbsp;
+    <a href="../fotografie.html">FOTO/ VIDEO</a>&nbsp;&nbsp;&nbsp;
+    <!--<a href="#">DOPORUČUJEME</a>&nbsp;&nbsp;&nbsp;-->
+    <a href="../partneri.html">PARTNEŘI</a>
+    </nav>
+  </header>
+  <div class="sidebar1">
+       
+ <aside>
+    <article>
+    <img src="../picts/corner_up_left.png">
+      <H3>NEJBLIŽŠÍ RÁNO</H3>
+      <img src="../picts/divide_side.png" class="divider">
+      <h4>Inspirativní ráno č. 36<br>
+      </h4>
+      <p><strong>s Petrem Švancarou</strong></p>
+      <p class="side_text_light">Petr Švancara začínal v Zetoru Brno, v deseti přišel do Boby Brno, ve dvaceti hrál za Uherské Hradiště, poté za Staré Město.
+V roce 1997 se vrátil do prvoligového Brna a v září 2000 přestoupil do Slavie. V pražském klubu nikdy nehrál pravidelně v základní sestavě, po dvou letech byl uvolněn na hostování do druholigové Opavy. V létě 2003 se vrátil do Brna. Po třech letech mu nebyla prodloužena smlouvu, v létě 2006 tak zamířil do Interu Bratislava. </p>
+      <p><a href="https://www.facebook.com/events/149016628805856/" target="new">Facebook event</a></p>
+      </article>
+      <article>
+      <img src="../picts/corner_up_left.png">
+      <h3>NÁŠ TÝM</h3>
+      <img src="../picts/divide_side.png" class="divider">
+      <br>
+      <span class="side_names">Matúš Labanc</span>
+      <p class="side_text_light"><a href="../team.html#team_matus" title="profil Matúše">profil organizátora</a></p>
+      <span class="side_names">Marie Rotnáglová</span>
+      <p class="side_text_light"><a href="../team.html#team_marie" title="profil Marie">profil organizátora</a></p>
+      <span class="side_names">Pavla Šoukalová</span>
+      <p class="side_text_light"><a href="../team.html#team_pavla" title="profil Pavly">profil organizátora</a></p>
+      <span class="side_names">Tereza Řezníková</span>
+      <p class="side_text_light"><a href="../team.html#team_tereza" title="profil Terezy">profil organizátora</a></p>
+      </article>
+      <article>
+      <img src="../picts/corner_up_left.png">
+      <h3>KONTAKT A MEDIA</h3>
+      <img src="../picts/divide_side.png" class="divider">
+      <p><a href="mailto:info@inspirativnirana.cz" target="new" title="Napište nám e-mail"><img src="../picts/mail_big.png" alt="E-mail"></a>
+      <a href="https://www.facebook.com/inspirana" target="new" title="Naše Facebooková prezentace"><img src="../picts/fb_big.png" alt="Facebook"></a><a href="https://instagram.com/inspirativni_rana" target="new" title="Instagram fotky"><img src="../picts/ig_big.png" alt="Facebook"></a><!--<a href="http://www.twitter.com" target="new" title="Přihlašte si odběr našeho twitteru"><img src="../picts/twitter_big.png" alt="Twitter"></a>
+      <a href="http://www.youtube.com" target="new" title="Podívejte se na náš kanál na YouTube"><img src="../picts/youtube_big.png" alt="YouTube"></a>
+      <!--<a href="#" target="new" title="Další služby"><img src="../picts/etc_big.png" alt="ETC"></a>-->
+      </p>
+ </aside>
+  </div>
+  <!-- TemplateBeginEditable name="content" -->
+<article class="content" id="hlavni_partneri">
+<img src="../picts/corner_up_left.png">
+    <p><strong>
+Naši hlavní partneři</strong><br><br>
+<table width="580" align="center">
+<tr>
+<td width="190" align="center"><img src="../picts/partneri/moravska_galerie.jpg" height="150" width="150"></td><td width="190" align="center"></td><td width="190" align="center"><img src="../picts/partneri/cerstva_kava.jpg" height="122" width="150"></td>
+</tr>
+<tr>
+<td width="190" align="center"><a href="http://www.moravska-galerie.cz/" target="new">Moravská galerie</a></td><td width="190" align="center"></td>
+<td width="190" align="center"><a href="http://www.cerstvakava.cz/" target="new">Čerstvá káva</a></td>
+</tr>
+<tr><td></td><td width="190" align="center"><img src="../picts/partneri/museyou.png" height="108" width="150"></td><td></td></tr>
+<tr><td></td><td width="190" align="center"><a href="http://museyou.cz/" target="new">MuseYou</a></td><td></td></tr>
+<tr><td></td><td width="190" align="center"><img src="../picts/partneri/cesta_caje.jpg" height="105" width="150"></td><td></td></tr>
+<tr><td></td><td width="190" align="center"><a href="http://www.cestacaje.cz/" target="new">Cesta čaje</a></td><td></td></tr>
+</table>
+
+    <section> </section>
+  <!-- end .content --></article>
+  <!-- TemplateEndEditable -->
+  <!-- end .container --></div>
+  <footer>
+    <div class="contact">
+      <img src="../picts/point.png">&nbsp;Moravské náměstí 1a, 662 26 Brno, Czech Republic<br>
+      <img src="../picts/tel.png">&nbsp;733 732 711<br>
+      	<img src="../picts/mail.png">&nbsp;info@inspirativnirana.cz<br>
+    </div>
+    <div class="copyright"><br>
+    &copy; Inspirativní rána, 2014<br>
+    design &copy; studio@vemola.cz, 2014<br>
+    webmaster &copy; Matouš Vrchota, 2014
+    </div>
+  </footer>
+</body>
+</html>
